@@ -1,2 +1,2 @@
-* a_trip_through_the_graphics_pipeline
+* A Trip Through The Graphics Pipeline
 a trip through the graphics pipeline with multi format (org, latex, html, pdf...)
